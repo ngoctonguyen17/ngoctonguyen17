@@ -33,6 +33,16 @@ I focus on **analyzing business requirements**, **project management**, and **st
 - **Design Tools**: Figma, Adobe Photoshop, Adobe Illustrator, Canva.
 - **Project Management Tools**: Familiar with Jira and Trello.
 
+## 🏆 Achivemment
+- **Top 7 SAP ERPSIM STUDENT COMPETITION 2024 - VIETNAM - UEL**
+- **Third Prize in the Season IV: 'Lữ Trung Kỳ Sự' Contest** organized jointly by the Vietnamese Flower Club, University of Social Sciences and Humanities - VNUHCM, and UEL - WAN Chinese Club, University of Economics and Law - VNUHCM
+- **Top 10 scientific research papers from the Faculty of Information Systems** (over 50 topics participated at the faculty level) competing for the "_**UEL Young Researcher Award 2024**_".
+
+## 📜 Certification
+- **Business Analysis & Process Management**: [IssuedDec2023](https://www.coursera.org/account/accomplishments/certificate/KYKVR27URZXL)
+- **Business Process Integration with SAP S/4HANA 2020**: [IssuedDec2023](https://www.credly.com/badges/d39f0919-b1f1-430d-85b0-60a4d98b054c/public_url)
+- **Introduction to SAP S/4HANA with ERPsim Games**: [IssuedOct2024](https://www.coursera.org/account/accomplishments/certificate/KYKVR27URZXL)
+
 ## 📬 Contact
 - **Email**: [ngocto170703@gmail.com](mailto:ngocto170703@gmail.com)
 - **Phone**: 0346 000 799
