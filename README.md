@@ -26,7 +26,7 @@ I focus on **analyzing business requirements**, **project management**, and **st
 - **🏛️ University**: University of Economics and Law, VNU-HCM
 - **📑 Major**: Management Information Systems
 
-### ⚙️ Technologies
+## ⚙️ Technologies
 - **Programming Languages**: Experienced in **Python** and **JavaScript (Angular)**.
 - **DBMS**: SQL Server, MySQL, MongoDB.
 - **Tools**: VS Code, Pycharm.
