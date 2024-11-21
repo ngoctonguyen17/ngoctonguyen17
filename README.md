@@ -18,13 +18,7 @@
 <hr>
 
 ## 💬 About me
-Hi there! I'm **Ngoc-To Nguyen**, a **Management Information Systems** student at the University of Economics and Law, VNU-HCM. My main interests and expertise lie in **IT Business Analysis** (IT BA), **Project Management** (PM), and roles that bridge the gap between business and technology. I am passionate about driving digital transformation in businesses and improving processes using technology.
-
-I focus on **analyzing business requirements**, **project management**, and **streamlining workflows**. I enjoy working on projects that involve **stakeholder management**, **data analysis**, and delivering **technology solutions** that align with business goals. I am eager to expand my knowledge and experience in these areas and contribute to innovative projects.
-
-- **🎂 Birthday**: 17/07/2003
-- **🏛️ University**: University of Economics and Law, VNU-HCM
-- **📑 Major**: Management Information Systems
+Hello! **I’m Ngoc-To Nguyen**, a student in **Management Information Systems** at **University of Economics and Law, VNU-HCM**. My main interests and expertise focus on **IT Business Analysis (ITBA), Project Management (PM),** and **Enterprise Resource Planning (ERP)**. I am passionate about bridging the gap between business and technology, driving digital transformation, and improving business processes through technology. I hope to learn more and apply this knowledge in practice to contribute to the development of businesses and the technology industry.
 
 ## ⚙️ Technologies
 - **Programming Languages**: Experienced in **Python** and **JavaScript (Angular)**.
@@ -33,7 +27,7 @@ I focus on **analyzing business requirements**, **project management**, and **st
 - **Design Tools**: Figma, Adobe Photoshop, Adobe Illustrator, Canva.
 - **Project Management Tools**: Familiar with Jira and Trello.
 
-## 🏆 Achivemment
+## 🏆 Achievements
 - **Top 7 SAP ERPSIM STUDENT COMPETITION 2024 - VIETNAM - UEL**
 - **Third Prize in the Season IV: 'Lữ Trung Kỳ Sự' Contest** organized jointly by the Vietnamese Flower Club, University of Social Sciences and Humanities - VNUHCM, and UEL - WAN Chinese Club, University of Economics and Law - VNUHCM
 - **Top 10 scientific research papers from the Faculty of Information Systems** (over 50 topics participated at the faculty level) competing for the "_**UEL Young Researcher Award 2024**_".
@@ -46,3 +40,5 @@ I focus on **analyzing business requirements**, **project management**, and **st
 ## 📬 Contact
 - **Email**: [ngocto170703@gmail.com](mailto:ngocto170703@gmail.com)
 - **Phone**: 0346 000 799
+
+Feel free to reach out if you'd like to connect or collaborate!
