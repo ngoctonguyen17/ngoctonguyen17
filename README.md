@@ -36,7 +36,7 @@ Hello! **I’m Ngoc-To Nguyen**, a student in **Management Information Systems**
 - **Business Analysis & Process Management**: [IssuedDec2023](https://www.coursera.org/account/accomplishments/certificate/KYKVR27URZXL)
 - **Business Process Integration with SAP S/4HANA 2020**: [IssuedDec2023](https://www.credly.com/badges/d39f0919-b1f1-430d-85b0-60a4d98b054c/public_url)
 - **Introduction to SAP S/4HANA with ERPsim Games**: [IssuedOct2024](https://drive.google.com/file/d/1xFfyYoDvLtITeVG9x2QFofvBsN8Sc7so/view?usp=sharing)
-- **Integrated business processes with ERP Systems - Part 1 **: [IssuedOct2024](https://drive.google.com/file/d/1BMl1-Z7M4mJZ6o8Y-iE09_3NG97Fyf3p/view?usp=sharing)
+- **Integrated business processes with ERP Systems - Part 1**: [IssuedMay2024](https://drive.google.com/file/d/1BMl1-Z7M4mJZ6o8Y-iE09_3NG97Fyf3p/view?usp=sharing)
 
 ## 📬 Contact
 - **Email**: [ngocto170703@gmail.com](mailto:ngocto170703@gmail.com)
