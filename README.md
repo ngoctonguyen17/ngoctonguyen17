@@ -26,11 +26,12 @@ I am passionate about bridging the gap between business and technology, driving 
 
 
 ## ⚙️ Technologies
-- **Programming Languages**: Experienced in **Python** and **JavaScript (Angular)**.
-- **DBMS**: SQL Server, MySQL, MongoDB.
-- **Tools**: VS Code, Pycharm.
-- **Design Tools**: Figma, Adobe Photoshop, Adobe Illustrator, Canva.
-- **Project Management Tools**: Familiar with Jira and Trello.
+**- Programming Languages:** Proficient in Python and JavaScript (Angular).
+**- Database Management Systems (DBMS):** Experience with SQL Server, MySQL, and MongoDB.
+**- ERP Systems:** Hands-on experience with SAP GUI, Microsoft Dynamics 365 Finance & Operations (D365FO), and Oracle E-Business Suite (EBS).
+**- Development & Testing Tools:** Familiar with Visual Studio Code, PyCharm, and Postman for API testing.
+**- Design Tools:** Skilled in Figma, Adobe Photoshop, Adobe Illustrator, and Canva.
+**- Project Management Tools:** Comfortable using Jira and Trello for task tracking and team collaboration.
 
 ## 🏆 Achievements
 - **Top 7 SAP ERPSIM STUDENT COMPETITION 2024 - VIETNAM - UEL**
