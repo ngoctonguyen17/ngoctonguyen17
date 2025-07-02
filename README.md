@@ -18,7 +18,12 @@
 <hr>
 
 ## 💬 About me
-Hello! **I’m Ngoc-To Nguyen**, a student in **Management Information Systems** at **University of Economics and Law, VNU-HCM**. My main interests and expertise focus on **IT Business Analysis (ITBA), Project Management (PM),** and **Enterprise Resource Planning (ERP)**. I am passionate about bridging the gap between business and technology, driving digital transformation, and improving business processes through technology. I hope to learn more and apply this knowledge in practice to contribute to the development of businesses and the technology industry.
+Hello! I’m **Ngoc-To Nguyen**, a graduate in Management Information Systems from the University of Economics and Law, VNU-HCM, currently working as an **IT Executive at Hoa Sen Group (HSG)**.
+
+Previously, I **worked at KPMG Vietnam as a Technology (Functional) Consultant**, where I participated in an ERP implementation project for a large-scale enterprise. This experience allowed me to strengthen my expertise in IT Business Analysis, Project Management, and Enterprise Resource Planning (ERP).
+
+I am passionate about bridging the gap between business and technology, driving digital transformation, and optimizing business processes through innovative IT solutions. I am always eager to learn, grow, and contribute to the advancement of both organizations and the broader technology industry.
+
 
 ## ⚙️ Technologies
 - **Programming Languages**: Experienced in **Python** and **JavaScript (Angular)**.
