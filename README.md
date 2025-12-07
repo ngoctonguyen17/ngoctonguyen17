@@ -18,7 +18,7 @@
 <hr>
 
 ## 💬 About me
-Hello! I’m **Ngoc-To Nguyen**, a graduate in Management Information Systems from the University of Economics and Law, VNU-HCM, currently working as an **IT Executive at Hoa Sen Group (HSG)**.
+Hello! I’m **Ngoc-To Nguyen**, a graduate in Management Information Systems from the University of Economics and Law, VNU-HCM.
 
 Previously, I **worked at KPMG Vietnam as a Technology (Functional) Consultant**, where I participated in an ERP implementation project for a large-scale enterprise. This experience allowed me to strengthen my expertise in IT Business Analysis, Project Management, and Enterprise Resource Planning (ERP).
 
